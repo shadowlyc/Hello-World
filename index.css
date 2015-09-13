@@ -1,42 +1,9 @@
 body{
     font-family: sans-serif;
-	color: darkblue;
+	color: #333;
+	background-color: #ddd;
+	font-size: 20px;
 }
-.list{
-  color: green;  
-}
-.click{
-  text-align: center;
-}
-button, input{
-	border: 1px solid red;
-}
-p{
-	color: orange;
-}
-.yellow{
-	color: yellow;
-}
-.center{
-	text-align: center;
-}
-.circles div {
-  border-radius: 50%;
-  border: 1px solid black;
-  width: 120px;
-  height: 120px;
-  color: orange;
-  margin: 20px;
-}
-
-.space{
-  padding: 20px;
-  border: 3px dotted black;
-}
-.blue{
-  background-color: skyblue;
-}
-.red{
-  background-color: #ddbbaa;
-  color: maroon;
+body div{
+	padding: 12px;
 }
