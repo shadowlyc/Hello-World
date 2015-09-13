@@ -8,15 +8,35 @@ body{
 .click{
   text-align: center;
 }
-button{
+button, input{
 	border: 1px solid red;
 }
 p{
 	color: orange;
 }
-.red{
-	color: red;
+.yellow{
+	color: yellow;
 }
 .center{
+	text-align: center;
+}
+.circles div {
+  border-radius: 50%;
+  border: 1px solid black;
+  width: 120px;
+  height: 120px;
+  color: orange;
+  margin: 20px;
+}
 
+.space{
+  padding: 20px;
+  border: 3px dotted black;
+}
+.blue{
+  background-color: skyblue;
+}
+.red{
+  background-color: #ddbbaa;
+  color: maroon;
 }
