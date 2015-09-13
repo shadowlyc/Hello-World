@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+	color: darkblue;
+}
+.list{
+  color: green;  
+}
+.click{
+  text-align: center;
+}
+button{
+	border: 1px solid red;
+}
+p{
+	color: orange;
+}
+.red{
+	color: red;
+}
+.center{
+
+}
